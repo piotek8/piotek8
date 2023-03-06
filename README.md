@@ -4,10 +4,10 @@
 -💻 Interesuje mnie tematyka napraw elektroniki, 
     ćwiczeń z własną masą ciała, rynku e-commerce, handlu, 
     ale w głównej mierze dziedziny IT, ponieważ...
--📚 Aktualnie uczę się branży Business Intelligence, 
+-📚 Aktualnie uczę się języka Python i tworzenia programów, automatyzacji, 
     tworząc projekty, które można dostrzec u mnie w portfolio. 
     Jestem otwarty na każdą propozycje, dlatego...
--📪 Szukam współpracy związanej z projektami BI.
+-📪 Szukam współpracy związanej z projektami.
 
 
 <!---- 👋 Hi, I’m @piotek8

@@ -16,7 +16,7 @@
   <h3 style="font-size: 22px;">📧 Language and Frameworks 📧</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,selenium,linux,postgres,redis,vscode,docker,github,html,css,bots,aiscript" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,selenium,python,linux,excel,vscode,docker,github,html,css,bots,aiscript" />
 
 
 

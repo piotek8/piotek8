@@ -6,9 +6,9 @@
   <h3>A passionate Backend Developer 📍</h3>
 
   <div>
-    🔭 I’m currently working on an <strong>application in Django</strong>
+    🔭 I’m currently working on an <strong>automation projects </strong>
     <br/> 
-    🌱 I have experience in <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    🌱 I have experience in <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   </div>
 
   <hr />
